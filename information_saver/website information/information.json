@@ -1,0 +1,10 @@
+{
+      "facebook": {
+            "email": "alex@gmail.com",
+            "password": "12345"
+      },
+      "twilio": {
+            "email": "james@gmail.com",
+            "password": "qwerty"
+      }
+}
